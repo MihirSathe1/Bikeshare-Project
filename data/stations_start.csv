@@ -1,0 +1,86 @@
+
+start_station_name,start_station_id,Trips,Freq
+San Francisco Caltrain (Townsend at 4th),70,72683,0.074
+San Francisco Caltrain 2 (330 Townsend),69,56100,0.057
+Harry Bridges Plaza (Ferry Building),50,49062,0.05
+Embarcadero at Sansome,60,41137,0.042
+2nd at Townsend,61,39936,0.041
+Temporary Transbay Terminal (Howard at Beale),55,39200,0.04
+Steuart at Market,74,38531,0.039
+Market at Sansome,77,35142,0.036
+Townsend at 7th,65,34894,0.035
+Market at 10th,67,30209,0.031
+Market at 4th,76,27502,0.028
+2nd at South Park,64,26218,0.027
+Powell Street BART,39,25204,0.026
+2nd at Folsom,62,23404,0.024
+Beale at Market,56,23082,0.023
+Grant Avenue at Columbus Avenue,73,23041,0.023
+Embarcadero at Bryant,54,22525,0.023
+Embarcadero at Folsom,51,21874,0.022
+Howard at 2nd,63,20746,0.021
+Civic Center BART (7th at Market),72,19145,0.019
+5th at Howard,57,18962,0.019
+South Van Ness at Market,66,18278,0.019
+Mechanics Plaza (Market at Battery),75,17837,0.018
+Spear at Folsom,49,17062,0.017
+Powell at Post (Union Square),71,16984,0.017
+Commercial at Montgomery,45,16857,0.017
+Broadway St at Battery St,82,16005,0.016
+Embarcadero at Vallejo,48,15302,0.016
+Davis at Jackson,42,15197,0.015
+Yerba Buena Center of the Arts (3rd @ Howard),68,14711,0.015
+Clay at Battery,41,14351,0.015
+San Jose Diridon Caltrain Station,2,13593,0.014
+Post at Kearny,47,11308,0.011
+Golden Gate at Polk,59,10651,0.011
+Mountain View Caltrain Station,28,9059,0.009
+Washington at Kearny,46,7136,0.007
+San Francisco City Hall,58,6730,0.007
+Santa Clara at Almaden,4,5308,0.005
+Mountain View City Hall,27,4275,0.004
+San Pedro Square,6,4132,0.004
+Palo Alto Caltrain Station,34,3281,0.003
+Paseo de San Antonio,7,3066,0.003
+Castro Street and El Camino Real,32,3049,0.003
+San Jose City Hall,10,2911,0.003
+Japantown,9,2855,0.003
+MLK Library,11,2664,0.003
+Ryland Park,84,2626,0.003
+San Antonio Caltrain Station,29,2601,0.003
+Post at Kearney,47,2503,0.003
+San Antonio Shopping Center,31,2377,0.002
+St James Park,13,2374,0.002
+Redwood City Caltrain Station,22,2249,0.002
+San Salvador at 1st,8,2232,0.002
+Cowper at University,37,2162,0.002
+San Jose Civic Center,3,2137,0.002
+Adobe on Almaden,5,2046,0.002
+Arena Green / SAP Center,14,2043,0.002
+University and Emerson,35,2002,0.002
+SJSU - San Salvador at 9th,16,1954,0.002
+Evelyn Park and Ride,30,1738,0.002
+SJSU 4th at San Carlos,12,1533,0.002
+Washington at Kearney,46,1472,0.001
+California Ave Caltrain Station,36,1418,0.001
+Santa Clara County Civic Center,80,1260,0.001
+Rengstorff Avenue / California Street,33,1171,0.001
+Park at Olive,38,1026,0.001
+Stanford in Redwood City,25,864,0.001
+San Mateo County Center,23,373,0.0
+Mezes Park,83,348,0.0
+Charleston Park/ North Bayshore Area,33,343,0.0
+Redwood City Medical Center,26,316,0.0
+Redwood City Public Library,24,272,0.0
+Franklin at Maple,21,226,0.0
+5th St at Folsom St,90,173,0.0
+Kaiser Hospital,26,147,0.0
+Mezes,83,119,0.0
+S. Market St at Park Ave,89,84,0.0
+Cyril Magnin St at Ellis St,91,69,0.0
+Broadway at Main,25,67,0.0
+Middlefield Light Rail Station,30,66,0.0
+San Jose Government Center,80,23,0.0
+5th S at E. San Salvador St,88,19,0.0
+Sequoia Hospital,21,15,0.0
+5th St at E. San Salvador St,88,1,0.0
